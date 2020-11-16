@@ -25,7 +25,7 @@ textfield:{
 border:"1px solid grey",
 },
 option:{
- width:'70%'
+ width:'51%'
 }
 
 }));
